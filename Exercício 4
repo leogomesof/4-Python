@@ -1,0 +1,2 @@
+ni=int(input("Digite o número: "))
+print("Sucessor: {}\nAntecessor: {}".format(ni+1,ni-1))
