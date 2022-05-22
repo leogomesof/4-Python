@@ -1,0 +1,4 @@
+carteira=float(input("Quantos reais você possui na carteira? "))
+print("Você tem R${} na carteira".format(carteira))
+print("Com esses R${} você pode comprar U${}".format(carteira,carteira*4.88) ) 
+#O dólar em 22/05/2022 valia R$4,88. Se aumentou depois disso, a culpa não é minha
