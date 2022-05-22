@@ -1,0 +1,5 @@
+altura=float(input("Digite a Altura da Parede: "))
+comprimento=float(input("Digite a Largura da Parede: "))
+area=altura*comprimento
+rendimento=area/2
+print("Para uma área de {} metros,\nVocê vai precisar de {}L para pintar esta parede".format(area,rendimento))
