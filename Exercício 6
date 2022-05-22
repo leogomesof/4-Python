@@ -1,5 +1,4 @@
 nota1=float(input("Digite a primeira nota: "))
 nota2=float(input("Digite a segunda nota: "))
 notasoma=(nota1+nota2)/2
-print(type(notasoma))
 print("A Média é:{}".format(notasoma))
