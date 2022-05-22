@@ -1,0 +1,4 @@
+salario=float(input("Digite o salário: R$"))
+aumento=0.15*salario
+novosalario=salario+aumento
+print("Seu novo salário é: R${}".format(novosalario))
