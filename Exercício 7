@@ -1,0 +1,4 @@
+metro=float(input("Digite o valor em Metros: "))
+mcm=metro*100 #conversão de Metro para Centímetro
+mmm=metro*1000 #conversão de Metro para Milímetro
+print("{} metro(s) são:\n{} centímetros e {} milimetros".format(metro,mcm,mmm))
